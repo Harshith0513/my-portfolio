@@ -1,16 +1,32 @@
-# React + Vite
+=# 🚀 Harshith's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website showcasing my projects, skills, certifications, and experience in Artificial Intelligence, Machine Learning, and Full Stack Development.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- AOS Animations
+- React Type Animation
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design
+- Animated hero section
+- Project showcase
+- Skills section
+- Experience & certifications
+- Contact section
+- Resume download
+- Smooth animations
 
-## Expanding the ESLint configuration
+## 📬 Contact
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- LinkedIn: https://www.linkedin.com/in/sai-venkata-harshith-kamandula/
+- GitHub: https://github.com/Harshith0513
+
+---
+
+⭐ If you like this project, consider giving it a star.
